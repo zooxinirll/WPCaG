@@ -28,11 +28,17 @@ Python packages:requestsargparserichpyfiglethalo
 
 Clone the repository :
 
-git clone https://github.com/yourusername/WPCaG.git
+```bash
+    git clone https://github.com/zooxinirll/WPCaG.git
+    ```
 
-cd WPCaGInstall 
+```bash
+    cd WPCaG
+    ```
+```bash
+    pip install -r requirements.txt
+    ```
 
-pip install -r requirements.txt
 
 # Run
 
