@@ -2,7 +2,7 @@
 
 WPCaG is a comprehensive tool designed for security researchers and WordPress administrators. It offers a wide range of features for gathering information, detecting vulnerabilities, and analyzing security configurations of WordPress websites.
 
-## Features
+## Main Menu Features :
 
 • WordPress Version Detection: Identifies the installed WordPress version.
 
@@ -56,19 +56,6 @@ python3 WPCaG.py --multiple <URL1>,<URL2>,<URL3>
 ```
 Analyzes multiple WordPress sites separated by commas.
 
-## Main Menu FeaturesFetch WordPress Version: 
-
-• Identifies the installed WordPress version.
-
-• Fetch Sitemap and robots.txt: Retrieves the sitemap.xml and robots.txt files for analysis.
-
-• Fetch SSL Certificate Information: Displays the SSL certificate details.
-
-• Enumerate Users: Extracts user data via the WordPress REST API.
-
-• Detect Plugins and Themes: Identifies common plugins and themes installed on the WordPress site.
-
-• Extract Email Addresses: Extracts email addresses found on the website.Exit: Exits the tool.
 
 
 ## 🌐 Connect With Me
