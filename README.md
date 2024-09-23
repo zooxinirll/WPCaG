@@ -41,19 +41,19 @@ pip install -r requirements.txt
 
 
 # Run
-
+```
 python3 WPCaG.py --single <URL>
-
+```
 # Single URL Analysis:
-
+```
 python3 WPCaG.py --single <URL> 
-
+```
 Analyzes a single WordPress site.
 
 # Multiple URLs Analysis:
-
+```
 python3 WPCaG.py --multiple <URL1>,<URL2>,<URL3> 
-
+```
 Analyzes multiple WordPress sites separated by commas.
 
 ## Main Menu FeaturesFetch WordPress Version: 
