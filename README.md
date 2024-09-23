@@ -22,8 +22,6 @@ WPCaG is a comprehensive tool designed for security researchers and WordPress ad
 
 Python 3.6+ Required 
 
-Python packages:requestsargparserichpyfiglethalo
-
 ## Installation
 
 Clone the repository : 
