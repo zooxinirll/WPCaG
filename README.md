@@ -26,7 +26,7 @@ Python packages:requestsargparserichpyfiglethalo
 
 ## Installation
 
-Clone the repository :
+Clone the repository : 
 
 ```bash
 git clone https://github.com/zooxinirll/WPCaG.git
