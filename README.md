@@ -29,15 +29,15 @@ Python packages:requestsargparserichpyfiglethalo
 Clone the repository :
 
 ```bash
-    git clone https://github.com/zooxinirll/WPCaG.git
-    ```
+git clone https://github.com/zooxinirll/WPCaG.git
+```
 
 ```bash
-    cd WPCaG
-    ```
+cd WPCaG
+```
 ```bash
-    pip install -r requirements.txt
-    ```
+pip install -r requirements.txt
+```
 
 
 # Run
